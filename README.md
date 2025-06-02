@@ -62,10 +62,6 @@
         <img src="https://miro.medium.com/v2/resize:fit:1358/1*JIVwPH9n0B37KNDKAPc2lQ.png" width="60"><br>
         <b>Ollama</b>
       </td>
-      <td align="center">
-        <img src="https://th.bing.com/th/id/OIP.SJhtBc9oCT-yNzFyOFCu3AHaEU?rs=1&pid=ImgDetMain" width="60"><br>
-        <b>Detectron2</b>
-      </td>
     </tr>
   </table>
 </div>
