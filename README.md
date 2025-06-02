@@ -1,7 +1,7 @@
 # Hi there, I'm Shanmukhi 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B801&width=550&lines=AI/ML+Engineer;Exploring+the+Future+of+Generative+AI" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B801&width=550&lines=AI/ML+Engineer+%7C+Building+AI-Powered+Apps;Exploring+the+Future+of+Generative+AI;Passionate+About+Deep+Learning+%26+OpenCV;Turning+Ideas+Into+Intelligent+AI+Solutions;Pushing+Boundaries+With+Cutting-Edge+Tech" alt="Typing Animation">
 </p>
 
 ---
