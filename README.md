@@ -31,10 +31,6 @@
         <b>PyTorch</b>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60"><br>
-        <b>Keras</b>
-      </td>
-      <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"><br>
         <b>Scikit-learn</b>
       </td>
@@ -66,7 +62,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"><br>
         <b>Docker</b>
       </td>
-      
       <td align="center">
         <img src="https://miro.medium.com/v2/resize:fit:1358/1*JIVwPH9n0B37KNDKAPc2lQ.png" width="60"><br>
         <b>Ollama</b>
