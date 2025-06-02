@@ -49,10 +49,6 @@
         <b>OpenCV</b>
       </td>
       <td align="center">
-        <img src="https://miro.medium.com/max/600/1*jbYRQa6__lU3EAzdkA_fJw.png" width="60"><br>
-        <b>AWS SageMaker</b>
-      </td>
-      <td align="center">
         <img src="https://th.bing.com/th/id/OIP.Wan48DmTomFcXEWcrAPKuwHaHa?rs=1&pid=ImgDetMain" width="60"><br>
         <b>AWS</b>
       </td>
