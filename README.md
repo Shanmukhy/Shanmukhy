@@ -69,7 +69,6 @@
 ---
 
 ## 🔥 **GitHub Stats**
- ![Shannu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanmukhy&show_icons=true&theme=radical) 
 ![Shannu's Streak](https://streak-stats.demolab.com?user=Shanmukhy&theme=dark&border_radius=7&mode=weekly)
 ![Shannu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shanmukhy&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
